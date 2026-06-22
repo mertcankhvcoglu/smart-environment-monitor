@@ -1,0 +1,16 @@
+# CMake build dizinleri
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+/out/
+
+# compile sonucu oluşan binary'ler
+*.exe
+*.elf
+*.so
+*.dll
+*.dylib
+*.a
+
+# IDE dosyaları (visual sst)
+.vs/
